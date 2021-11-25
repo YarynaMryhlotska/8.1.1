@@ -1,0 +1,4 @@
+﻿  laba8.1.1.cpp
+C:\Users\marki\Desktop\ап\Yaryna visual studio\laba8.1.1\laba8.1.1.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\marki\Desktop\ап\Yaryna visual studio\laba8.1.1\laba8.1.1.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  laba8.1.1.vcxproj -> C:\Users\marki\Desktop\ап\Yaryna visual studio\laba8.1.1\Debug\laba8.1.1.exe
